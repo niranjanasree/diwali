@@ -1,3 +1,3 @@
 # diwali
-AP
-KARNATAKA
+
+india
