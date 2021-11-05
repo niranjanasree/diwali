@@ -1,4 +1,3 @@
 # diwali
 AP
-KARNATAKA
 india
